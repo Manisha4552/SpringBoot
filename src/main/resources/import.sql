@@ -1,0 +1,3 @@
+insert into user_entity (USER_ID,EMAIL,FIRST_NAME,LAST_NAME,ROLE,SSN,USER_NAME) values (101,'manisha@gmail.com','Manisha','Deo','SE','SSN101','Manisha Deo');
+insert into user_entity (USER_ID,EMAIL,FIRST_NAME,LAST_NAME,ROLE,SSN,USER_NAME) values (102,'monika@gmail.com','Monika','Deo','SE-1','SSN102','Monika Deo');
+insert into user_entity (USER_ID,EMAIL,FIRST_NAME,LAST_NAME,ROLE,SSN,USER_NAME) values (103,'padma@gmail.com','Padma','Deo','SE-11','SSN103','Padma Deo');
